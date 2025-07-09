@@ -36,12 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Balaharish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaharish&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaharish&layout=compact&theme=tokyonight)
-
----
 
 ### 💡 Quote I Live By
 
