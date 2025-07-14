@@ -31,7 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaharish-pandiyarajan/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/balaharish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://balaharish04.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://balaharish04.github.io/portfolio_1.0/)
 
 ---
 
