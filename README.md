@@ -5,7 +5,6 @@
 
 - 🎓 I'm an **EEE student** passionate about technology, innovation, and real-world problem solving.
 - 🌱 Currently learning **React**, **Node.js**, and **Embedded IoT systems**
-- 💼 Building my **personal portfolio website** in React
 - ⚡ Exploring the intersection of **electronics and software**: Power Systems, Automation & Smart Devices
 - 👀 Actively seeking opportunities in **Embedded Systems, Web Development, and Tech Innovation**
 
