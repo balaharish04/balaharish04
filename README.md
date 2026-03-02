@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 I'm an **EEE student** passionate about technology, innovation, and real-world problem solving.
+- 🎓 I'm an **EEE Graduate** passionate about technology, innovation, and real-world problem solving.
 - 🌱 Currently learning **Web Development** and **Programming**
-- ⚡ Exploring the intersection of **Electronics and Software**: Power Systems, Automation & Smart Devices
+- ⚡ Exploring the intersection of **Electronics and Software**: Power Systems, IoT, Automation & Smart Devices
 - 👀 Actively seeking opportunities in **Embedded Systems, Web Development, and Tech Innovation**
 
 ---
@@ -27,12 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaharish-pandiyarajan/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/balaharish04)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://balaharish04.github.io/portfolio_1.0/)
-
----
-
-### 💡 Quote I Live By
-
-> "The future belongs to those who learn more skills and combine them in creative ways."
 
 ---
 
